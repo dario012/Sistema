@@ -1,0 +1,50 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: monserrat;
+}
+.fondo{
+	background-image: linear-gradient(rgba(5,7,12, 0.50),rgba(5,7,12, 0.50)), url(../img/fondo3.jpg);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100% !important;
+}
+.formulario{
+	border:1px solid cadetblue !important;
+	border-radius: 10px !important;	
+	padding: 20px;
+	width: 550px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+p{
+	color: white;
+}
+.imagen{
+	border-radius: 350px;
+	max-height: 250px;
+	max-width: 250px;
+}
+.form-floating input{
+	padding: 50px;
+}
+.presentacion{
+	color: white;
+}
+.prueba{
+	display: inline-block;
+     
+}
+.prueba1{
+	margin-top: -58px;
+	margin-left: 144px;
+
+}
+.prueba2{
+	box-sizing: 50px;
+	
+	max-width: 140px;
+}
